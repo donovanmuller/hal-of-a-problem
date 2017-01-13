@@ -1,7 +1,9 @@
 # Hal of a Problem
 
-As sample Spring Boot app that reproduces the issue
+A sample Spring Boot app that reproduces the issue
 when including the `spring-data-rest-hal-browser` dependency.
+
+Related to this Spring Boot issue: https://github.com/spring-projects/spring-boot/issues/7977
 
 ## Issue
 
